@@ -20,6 +20,8 @@ Ceit will receive her transcript from George Brown College in a digital format. 
 4. Click **Continue to Review** and the **Confirm**. There will be a 1-3 second delay while the template is written to the ledger.
 5. Copy the credential's Schema ID for later
 
+![(image)](https://i.postimg.cc/DZHSsTW1/3.jpg)
+
 ## Install Trinsic Wallet
 Download the Trinsic Wallet for iOS or Android.
 
@@ -29,6 +31,8 @@ Download the Trinsic Wallet for iOS or Android.
 2. Locate the "College Transcript" credential template.
 3. Click on the **Offer** icon that corresponds with that template.
 4. Fill in all the attributes with Alice's information, then send the credential via **Create Offer Link**.
+
+![(image)](https://i.postimg.cc/vTwQbHg2/4.jpg)
 
 ## Create a connection with RBC Bank
 
@@ -45,6 +49,8 @@ Now, as Ceit:
 2. Scan the QR code that is displayed in Trinsic Studio.
 3. When the connection invitation shows up in the wallet, tap ACCEPT.
 The connection will be added to your wallet.
+
+![(image)](https://i.postimg.cc/KzrW3ZpH/6.jpg)
 
 ## Create RBC Bank job application
 Now that Ceit has her first credential, she can begin to use it to prove things about herself. In this case, she wants to get a job and can use her digital college transcript to do so.
@@ -73,6 +79,7 @@ Now create the Job Application template:
 6. In the **Advanced** dropdown, select **Schema ID** and paste the transcript Schema ID into the textbox that appears. This is so that only credentials issued from the template you created previously will pass the verification. 
 7. Click the **Create** button and wait a few seconds for the template to be saved.
 
+![(image)](https://i.postimg.cc/26mcDsjF/8.jpg)
 
 ## RBC Bank Sends Ceit a Job Application
 Now that RBC Bank has set up its verification template, it can send its verification to Ceit!
