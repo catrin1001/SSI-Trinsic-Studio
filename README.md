@@ -50,7 +50,7 @@ Now, as Ceit:
 3. When the connection invitation shows up in the wallet, tap ACCEPT.
 The connection will be added to your wallet.
 
-![(image6)](https://i.postimg.cc/KzrW3ZpH/6.jpg)
+![(image)](https://i.postimg.cc/Jhdgp2G8/6.jpg)
 
 ## Create RBC Bank job application
 Now that Ceit has her first credential, she can begin to use it to prove things about herself. In this case, she wants to get a job and can use her digital college transcript to do so.
